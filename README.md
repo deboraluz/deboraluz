@@ -31,16 +31,6 @@ To grow professionally in the technology and data field, building projects and c
 
 ---
 
-<div align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=deboraluz&show_icons=true&theme=transparent&title_color=FF939B&icon_color=FF939B&text_color=c9d1d9&hide_border=true"/>
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraluz&layout=compact&theme=transparent&title_color=FF939B&text_color=FF939B&hide_border=true"/>
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/debora-luz-973161120/" target="_blank">
